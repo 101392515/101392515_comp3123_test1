@@ -1,0 +1,18 @@
+{
+  "name": "question",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "question1": "node question1/question1.js",
+    "question2": "node question2/question2.js",
+    "removeLogs": "node question3/remove.js",
+    "addLogs": "node question3/add.js"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
